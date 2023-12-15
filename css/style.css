@@ -1,0 +1,100 @@
+header{
+    margin: 54px 50px;
+}
+img {
+    display: inline-block;
+    vertical-align: middle;
+    color: #30CBC2;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 50px;
+}
+nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+ul {
+    display: inline-block;
+    vertical-align: middle;
+}
+li {
+    color: #8D81FF;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+    padding: 60px;
+}
+.active {
+    color: #4E6FAE;
+}
+.container {
+    width: 1292px;
+    margin: 0 auto;
+}
+.my26 {
+    color: #84FF81;
+    font-family: Helvetica;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 50px;
+    height: 50px;
+    background-color: #5012D5;
+    padding: 10px;
+}
+.myh1 {
+    color: #8D81FF;
+    font-family: BPG Nino Mkhedruli;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 40px;
+}
+.myh2 {
+    width: 578px;
+    height: 34px;
+    color: #4E6FAE;
+    font-family: GL Tatishvili Metal;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 20px;
+}
+.img1 {
+    vertical-align: top;
+}
+.p1 {
+    width: 768px;
+    height: 353px;
+    color: #4E6FAE;
+    font-family: GL Kirovi;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    vertical-align: top;
+    display: inline-block;
+}
+.p2 {
+    width: 1021px;
+    height: 148px;
+    color: #4E6FAE;
+    font-family: GL Kirovi;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+footer {
+    margin-top: 155px;
+    margin-left: 95px;
+}
